@@ -1,5 +1,5 @@
 import React from "react";
-import RashSelfIcon from "../assets/images/rashmi.svg";
+import RashSelfIcon from "../assets/images/rizal.png";
 import AboutBox from "../components/About/AboutBox";
 import about from "../data/About";
 import {
@@ -33,7 +33,7 @@ const IndexPage = () => {
               Download Resume
             </DownloadButton>
           </div>
-          <img src={RashSelfIcon} alt="khoirur self" />
+          <img className="profile-me" src={RashSelfIcon} alt="khoirur self" />
         </UserDescription>
         <UserTopic>
           {about.map((item) => (
