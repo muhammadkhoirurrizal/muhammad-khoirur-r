@@ -17,7 +17,7 @@ export default [
     githubPath: null,
     demoPath: "https://andtertainment.com/",
     year: "2020",
-    techUsed: "Wordpress, Bootstrap."
+    techUsed: "Wordpress, Bootstrap.",
   },
   {
     id: 5,
@@ -25,9 +25,9 @@ export default [
     icon: null,
     description: "",
     githubPath: null,
-    demoPath: "wikuwiku.com",
+    demoPath: "http://wikuwiku.com",
     year: "2020",
-    techUsed: "Wordpress, Bootstrap."
+    techUsed: "Wordpress, Bootstrap.",
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ export default [
     githubPath: null,
     demoPath: "https://mangajek.com/",
     year: "2020",
-    techUsed: "Wordpress, Bootstrap."
+    techUsed: "Wordpress, Bootstrap.",
   },
   {
     id: 3,
@@ -47,7 +47,7 @@ export default [
     githubPath: null,
     demoPath: "https://twiscode.com/",
     year: "2019",
-    techUsed: "React, Bootstrap."
+    techUsed: "React, Bootstrap.",
   },
   {
     id: 2,
@@ -57,7 +57,7 @@ export default [
     githubPath: null,
     demoPath: null,
     year: "2019",
-    techUsed: "React, Bootstrap."
+    techUsed: "React, Bootstrap.",
   },
   {
     id: 1,
@@ -67,6 +67,6 @@ export default [
     githubPath: null,
     demoPath: null,
     year: "2019",
-    techUsed: "React, Bootstrap."
-  }
+    techUsed: "React, Bootstrap.",
+  },
 ];
